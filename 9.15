@@ -1,0 +1,29 @@
+''' Type your code here. '''
+'''l = input()
+l2 = []
+l = l.split(' ')
+for i in l:
+    if i != ' ' and int(i) >= 0:
+        l2.append(i)
+l2 = l2.sort()
+print(l2)
+for k in l2:
+    for k not in l3:
+        if k > l3[0]:
+            '''
+        
+#for m in l2:       
+ #   print(m, end=' ')
+num = input()
+lst = num.split()
+
+new = []
+
+for i in lst:
+    if int(i) >= 0:
+        new.append(int(i)) 
+
+new.sort() 
+
+for x in new:
+    print(x, end=' ') 
